@@ -1,6 +1,6 @@
 <?php
 
-$siteurl="http://localhost/Training/Projects2/admin/";
+$siteurl="http://localhost/Training/Projects/admin/";
 
 $hostname = "localhost";
 $username = "root";
